@@ -67,6 +67,7 @@ AIA생명 T/M 실무에서 특정 스크립트에 대한 연령대별 전환율 
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/SHAP-FF6F61?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
 
 ---
