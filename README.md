@@ -78,7 +78,7 @@ AIA생명 T/M 실무에서 특정 스크립트에 대한 연령대별 전환율 
 
 사용자 로그 데이터를 활용하여 이탈(Churn)을 사전 예측하고, 마케팅 개입을 위한 고객 페르소나를 도출한 프로젝트입니다.
 
-역할 및 성과
+나의 역할 및 성과
 - Churn proxy 재정의 및 7일 snapshot / 28일 feature window / 14일 label window 분석 구조 설계
 - 모델 비교 분석을 통해 개별 모델 중 성능과 해석력이 우수한 LightGBM을 최종 모델로 선정
 - LightGBM 성능 지표: PR-AUC 0.859, Precision@10 1.000 ,Lift@10 1.372, 달성
