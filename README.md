@@ -2,15 +2,19 @@
 
 ## 👤 프로필 정보
 
-<p align="center">
-  <img src="이재혁.jpg" width="180" />
-</p>
-
-생년월일: 1999.06.21 (만 26세)
-
-연락처 : 010.6691.0864
-
-Email: wogur4523@naver.com
+<table>
+  <tr>
+    <td align="center" width="200">
+      <img src="이재혁.jpg" width="180" alt="프로필 사진" />
+    </td>
+    <td style="padding-left: 20px;">
+      <br>
+      <b>생년월일</b>: 1999.06.21 (만 26세)<br><br>
+      <b>연락처</b> : 010.6691.0864<br><br>
+      <b>Email</b>: <a href="mailto:wogur4523@naver.com">wogur4523@naver.com</a>
+    </td>
+  </tr>
+</table>
 
 ---
 
