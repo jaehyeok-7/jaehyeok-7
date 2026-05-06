@@ -9,9 +9,10 @@
     </td>
     <td style="padding-left: 20px;">
       <br>
-      <b>생년월일</b>: 1999.06.21 (만 26세)<br><br>
+      <b>이름</b> : 이재혁<br><br>
+      <b>생년월일</b> : 1999.06.21 (만 26세)<br><br>
       <b>연락처</b> : 010.6691.0864<br><br>
-      <b>Email</b>: <a href="mailto:wogur4523@naver.com">wogur4523@naver.com</a>
+      <b>Email</b> : <a href="mailto:wogur4523@naver.com">wogur4523@naver.com</a>
     </td>
   </tr>
 </table>
