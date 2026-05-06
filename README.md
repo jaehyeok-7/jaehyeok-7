@@ -3,7 +3,7 @@
 ## 👤 프로필 정보
 
 <p align="center">
-  <img src="./images/profile.jpg" width="180" />
+  <img src="./images/profile.jpg" width="180" alt="이재혁 프로필 사진" />
 </p>
 
 생년월일: 1999.06.21 (만 26세)
@@ -127,5 +127,3 @@ AIA생명 T/M 실무에서 특정 스크립트에 대한 연령대별 전환율 
 - `Python` `statsmodels` `scikit-learn` `XGBoost` `LightGBM`
 
 🔗 [Repository 바로가기](https://github.com/jaehyeok-7/kaggle_mini_project)
-
----
