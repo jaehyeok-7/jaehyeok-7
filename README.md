@@ -3,7 +3,7 @@
 ## 👤 프로필 정보
 
 <p align="center">
-  <img src="./images/profile.jpg" width="180" alt="이재혁 프로필 사진" />
+  <img src="이재혁.jpg" width="180" />
 </p>
 
 생년월일: 1999.06.21 (만 26세)
