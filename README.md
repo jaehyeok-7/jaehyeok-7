@@ -31,15 +31,6 @@ AIA생명 T/M 실무에서 특정 스크립트에 대한 연령대별 전환율 
 
 ---
 
-## 🌱 주요 관심 분야
-
-- Customer Behavior Analysis: 고객 이탈 위험 예측(Churn Prediction), 고객 세분화(Segmentation)
-- Machine Learning: Tabular Data Modeling (LightGBM, CatBoost, XGBoost), AutoML
-- Explainable AI (XAI): SHAP 기반 변수 영향도 해석 및 액션 플랜 도출
-- Data Visualization: Figma, Tableau 등을 활용한 비즈니스 대시보드 구축
-
----
-
 ## 🎓 학력
 
 - 호남대학교 컴퓨터공학과 졸업 (2018.03 - 2025.02)
@@ -48,9 +39,14 @@ AIA생명 T/M 실무에서 특정 스크립트에 대한 연령대별 전환율 
 
 - 멀티캠퍼스 데이터 분석가 부트캠프 수료 (2025.11.17 - 2026.04.16)
 
+학습 내용
+- Python, SQL 기반 데이터 수집·전처리, 통계 분석 및 시각화 역량 습득
+- 머신러닝·딥러닝 기초 모델을 활용한 예측 분석 및 데이터 분석 프로젝트 수행
+
 ## 💼 경력 사항
 
 - AIA생명 T/M 아웃바운드 마케팅 (2021.01 - 2021.12)
+- 고객 응대 및 서비스 직무 경력 5년 이상 (CU, PC방, 외식업 등)
 
 ---
 
@@ -90,12 +86,13 @@ AIA생명 T/M 실무에서 특정 스크립트에 대한 연령대별 전환율 
 
 사용자 로그 데이터를 활용하여 이탈(Churn)을 사전 예측하고, 마케팅 개입을 위한 고객 페르소나를 도출한 프로젝트입니다.
 
-나의 역할 및 성과
+### 나의 역할 및 성과
 - Churn proxy 재정의 및 7일 snapshot / 28일 feature window / 14일 label window 분석 구조 설계
-- 모델 비교 분석을 통해 개별 모델 중 성능과 해석력이 우수한 LightGBM을 최종 모델로 선정
+- 모델 비교 분석을 통해 성능과 해석력이 우수한 LightGBM을 최종 모델로 선정
 - LightGBM 성능 지표: PR-AUC 0.859, Precision@10 1.000, Lift@10 1.372 달성
 - SHAP를 통해 시청 시간, 접속 빈도 등 핵심 이탈 변수 식별
-- 분석 결과를 기반으로 위험군(Risk_band)과 페르소나(Persona_type)를 도출하고, 효율적인 마케팅 액션을 지원하는 Figma 기반 대시보드 프로토타입 설계
+- 분석 결과 기반 Risk_band 및 Persona_type 도출
+- Figma 기반 마케팅 액션 대시보드 프로토타입 설계
 
 사용 기술
 - `Python` `pandas` `AutoGluon` `LightGBM` `CatBoost` `SHAP` `Figma`
@@ -106,11 +103,11 @@ AIA생명 T/M 실무에서 특정 스크립트에 대한 연령대별 전환율 
 
 ### 2. 학생 시험 성적 영향 요인 분석 및 예측 모델링 (개인 프로젝트)
 
-학생들의 다양한 생활 패턴(학습 시간, 출석률, 수면 시간 등)이 학업 성취도에 미치는 영향을 분석한 프로젝트입니다.
+학생들의 생활 패턴(학습 시간, 출석률, 수면 시간 등)이 학업 성취도에 미치는 영향을 분석한 프로젝트입니다.
 
-나의 역할 및 성과
+### 나의 역할 및 성과
 - 회귀분석 및 상관관계 분석을 통한 주요 변수 도출
-- LightGBM 기반 예측 모델 구축
+- LightGBM 기반 성적 예측 모델 구축
 - SHAP를 활용한 변수 영향도 해석
 
 사용 기술
@@ -124,11 +121,18 @@ AIA생명 T/M 실무에서 특정 스크립트에 대한 연령대별 전환율 
 
 10만 건 이상의 대사 지표 데이터를 분석하여 당뇨병 발병 위험 요인을 파악하고 진단 모델을 구축했습니다.
 
-나의 역할 및 성과
-- OLS, ANOVA, 로지스틱 회귀를 수행하여 통계적 유의성이 높은 대사 지표 선별
+### 나의 역할 및 성과
+- OLS, ANOVA, 로지스틱 회귀를 활용한 유의미 변수 선별
 - 머신러닝 모델 비교 및 성능 최적화 수행
 
 사용 기술
 - `Python` `statsmodels` `scikit-learn` `XGBoost` `LightGBM`
 
 🔗 [Repository 바로가기](https://github.com/jaehyeok-7/kaggle_mini_project)
+
+---
+
+## 📫 Contact
+
+- Email: wogur4523@naver.com
+- GitHub: https://github.com/jaehyeok-7
