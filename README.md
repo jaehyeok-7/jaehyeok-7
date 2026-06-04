@@ -98,6 +98,7 @@ AIA생명 T/M 실무에서 특정 스크립트에 대한 연령대별 전환율 
 - `Python` `pandas` `AutoGluon` `LightGBM` `CatBoost` `SHAP` `Figma`
 
 🔗 [Repository 바로가기](https://github.com/jaehyeok-7/TVING-Churn-Prediction)
+
 ---
 
 ### 2. 학생 시험 성적 영향 요인 분석 및 예측 모델링 (개인 프로젝트)
@@ -113,6 +114,7 @@ AIA생명 T/M 실무에서 특정 스크립트에 대한 연령대별 전환율 
 - `Python` `pandas` `scikit-learn` `LightGBM` `SHAP`
 
 🔗 [Repository 바로가기](https://github.com/jaehyeok-7/2rd-mini-project)
+
 
 ---
 
