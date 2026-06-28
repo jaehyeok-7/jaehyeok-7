@@ -66,7 +66,6 @@ AIA생명 T/M 실무에서 특정 스크립트에 대한 연령대별 전환율 
   <img src="https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/CatBoost-FFCC00?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/XGBoost-EC1C24?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/AutoGluon-00A98F?style=for-the-badge"/>
 </p>
 
 ### Visualization & Collaboration
