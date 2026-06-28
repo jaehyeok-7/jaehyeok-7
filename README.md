@@ -95,7 +95,7 @@ AIA생명 T/M 실무에서 특정 스크립트에 대한 연령대별 전환율 
 - Figma 기반 마케팅 액션 대시보드 프로토타입 설계
 
 사용 기술
-- `Python` `pandas` `AutoGluon` `LightGBM` `CatBoost` `SHAP` `Figma`
+- `Python` `pandas` `LightGBM` `CatBoost` `SHAP` `Figma`
 
 🔗 [Repository 바로가기](https://github.com/jaehyeok-7/TVING-Churn-Prediction)
 
